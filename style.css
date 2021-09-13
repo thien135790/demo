@@ -1,4 +1,11 @@
 .myheader{
     background-color: rgb(65, 121, 226);
     height: 100px;
+    float: left;
+}
+.logo{
+    padding-left: 100px;
+    padding-top: 25px;
+    width: 65;
+    height: 65;
 }
